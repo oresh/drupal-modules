@@ -1,0 +1,18 @@
+Modules reviews:
+
+--------------
+
+Responsive Panels Grids
+ https://drupal.org/sandbox/ygerasimov/1855844
+
+--------------
+
+Panels Frame
+ https://drupal.org/project/panels_frame
+
+--------------
+
+Edit
+ https://drupal.org/project/edit
+
+--------------

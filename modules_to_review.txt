@@ -1,0 +1,19 @@
+Modules to check and review:
+
+--------------
+
+Advanced CSS/JS Aggregation
+https://drupal.org/project/advagg
+
+--------------
+
+Boost
+https://drupal.org/project/boost
+
+--------------
+
+CSS Embedded Images
+https://drupal.org/project/css_emimage
+
+--------------
+
