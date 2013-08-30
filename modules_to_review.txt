@@ -112,5 +112,62 @@ https://drupal.org/project/boxes
 
 --------------
 
+Layout
+https://drupal.org/project/layout
+
+--------------
+
+HTML Mail
+https://drupal.org/project/htmlmail
+
+--------------
+
+Link checker
+https://drupal.org/project/linkchecker
+
+--------------
+
+Honeypot
+https://drupal.org/project/honeypot
+
+--------------
+
+Disqus
+https://drupal.org/project/disqus
+
+--------------
+
+Markdown filter
+https://drupal.org/project/markdown
+
+--------------
+
+Invisimail
+https://drupal.org/project/invisimail
+
+--------------
+
+Form Builder
+https://drupal.org/project/form_builder
+
+--------------
+
+Invite
+https://drupal.org/project/invite
+
+--------------
+
+Block Theme
+https://drupal.org/project/blocktheme
+
+--------------
+
+LESS CSS Preprocessor
+https://drupal.org/project/less
+
+--------------
+
+
+
 
 6951 Modules to go...
